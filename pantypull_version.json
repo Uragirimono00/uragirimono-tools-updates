@@ -1,5 +1,5 @@
 {
-  "version": "2.0.7",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.7.unitypackage.enc",
-  "notes": "- Fixed: a panty switched on by an MA Object Toggle was skipped by the automatic pre-play bake\n- Fixed: a panty inside an outfit-switching menu (multiple menu items sharing one parameter) could disappear on avatar load\n- Misc fixes"
+  "version": "2.0.8",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.8.unitypackage.enc",
+  "notes": "- Added: One Click Inventory support - an inventory item that contains the panty (or its outfit) now hides and restores the whole gimmick automatically, on your screen and everyone else\u0027s"
 }

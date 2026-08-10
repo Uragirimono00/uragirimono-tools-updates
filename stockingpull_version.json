@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.3.unitypackage.enc",
-  "notes": "- Fixed: a garment inside an outfit-switching menu (multiple menu items sharing one parameter) could disappear on avatar load\n- Fixed: unrelated warnings from other assets no longer appear during bake\n- Fixed: two garments with the same name overwrote each other's files\n- Misc fixes and clearer build messages"
+  "version": "1.0.4",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.4.unitypackage.enc",
+  "notes": "- Added: One Click Inventory support - an inventory item that contains the stocking (or its outfit) now hides and restores the whole gimmick automatically, on your screen and everyone else\u0027s\n- Re-enabling the item always brings the stocking back fully worn, even if it was pulled or dropped while hidden"
 }
