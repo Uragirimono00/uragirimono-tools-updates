@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.4.unitypackage.enc",
-  "notes": "- Added: One Click Inventory support - an inventory item that contains the stocking (or its outfit) now hides and restores the whole gimmick automatically, on your screen and everyone else\u0027s\n- Re-enabling the item always brings the stocking back fully worn, even if it was pulled or dropped while hidden"
+  "version": "1.0.5",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.5.unitypackage.enc",
+  "notes": "- Added: you can now place the generated prefab into your avatar yourself - builds use your placed copy as-is, edits included, instead of removing it\n- Improved: the inspector explains when a placed prefab is in effect"
 }

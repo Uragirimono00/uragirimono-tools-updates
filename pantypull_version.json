@@ -1,5 +1,5 @@
 {
-  "version": "2.0.8",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.8.unitypackage.enc",
-  "notes": "- Added: One Click Inventory support - an inventory item that contains the panty (or its outfit) now hides and restores the whole gimmick automatically, on your screen and everyone else\u0027s"
+  "version": "2.0.9",
+  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.9.unitypackage.enc",
+  "notes": "- Added: you can now place the generated prefab into your avatar yourself - builds use your placed copy as-is, edits included, instead of installing a second one\n- Changed: the generated prefab contents are now grouped into UPP_Meshes / UPP_Gimmick, like StockingPull"
 }
