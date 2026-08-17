@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9",
-  "url": "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.9.unitypackage.enc",
-  "notes": "- Added: you can now place the generated prefab into your avatar yourself - builds use your placed copy as-is, edits included, instead of installing a second one\n- Changed: the generated prefab contents are now grouped into UPP_Meshes / UPP_Gimmick, like StockingPull"
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.10.unitypackage.enc",
+    "version":  "2.0.10",
+    "notes":  "- Added: \"Pulled Mesh Shape\" option - the pulled mesh can keep its own shape instead of rolling up, with adjustable kept size (30-100%)\n- Fixed: the worn mesh now follows butt jiggle bones on rigs with an intermediate butt root bone\n- Misc fixes"
 }
