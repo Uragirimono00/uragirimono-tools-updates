@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.10.unitypackage.enc",
-    "version":  "2.0.10",
-    "notes":  "- Added: \"Pulled Mesh Shape\" option - the pulled mesh can keep its own shape instead of rolling up, with adjustable kept size (30-100%)\n- Fixed: the worn mesh now follows butt jiggle bones on rigs with an intermediate butt root bone\n- Misc fixes"
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.0.11.unitypackage.enc",
+    "version":  "2.0.11",
+    "notes":  "- New: while one side is pulled, the idle side now follows down naturally (half pull)\n- Fixed: one-side pulls no longer disturb the opposite side at the pull start (roll mode)\n- Fixed: a brief clip-through at the moment a pull starts (keep-shape mode)"
 }
