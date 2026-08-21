@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.1.0.unitypackage.enc",
-    "version":  "2.1.0",
-    "notes":  "- New: the first pull now wraps around the buttocks instead of cutting through them (half pull follows the same path)\n- New: thin strings and ties keep their shape while pulled (they could thin out or vanish)\n- Fixed: half pull no longer jumps between steps below the knee (L7-L9 slide continuously)\n- Fixed: with bent legs / while seated, the pulled band follows the thigh instead of lagging inside it\n- Fixed: below the knee, the band could sit inside the shin on avatars whose leg bones are oriented differently"
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.1.1.unitypackage.enc",
+    "version":  "2.1.1",
+    "notes":  "- Fixed: the worn panty could clip into the buttocks on outfits whose panty renderer carries a non-uniform transform scale (the bake now reconstructs from the actual skinning)\n- Fixed: a panty dropped on the floor could turn invisible to other players once you walked away (its culling bounds now follow the dropped panty)\n- Changed: the grab markers (Show Grab) stay out of VRChat camera shots and screenshots (toggle on the GrabHint material)\n- Improved: faster baking on high-polygon panties and dense bodies"
 }
