@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.1.1.unitypackage.enc",
-    "version":  "2.1.1",
-    "notes":  "- Fixed: the worn panty could clip into the buttocks on outfits whose panty renderer carries a non-uniform transform scale (the bake now reconstructs from the actual skinning)\n- Fixed: a panty dropped on the floor could turn invisible to other players once you walked away (its culling bounds now follow the dropped panty)\n- Changed: the grab markers (Show Grab) stay out of VRChat camera shots and screenshots (toggle on the GrabHint material)\n- Improved: faster baking on high-polygon panties and dense bodies"
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.1.2.unitypackage.enc",
+    "version":  "2.1.2",
+    "notes":  "- Fixed: the To Floor switch now works on the first press and syncs to other players (it used to need a second press, and others could see the dropped panty at a different spot than you)\n- Changed: turning To Floor off puts the panty back on, matching To Hand\n- Fixed: pressing To Floor right after pulling the panty off by hand no longer leaves two panties\n- Fixed: To Hand after grabbing and moving the dropped panty now brings it back to the hand instead of leaving it floating in place"
 }
