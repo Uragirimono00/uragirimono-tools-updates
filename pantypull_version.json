@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/PantyPull_v2.1.3.unitypackage.enc",
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/PantyPull_v2.1.3.unitypackage.enc",
     "version":  "2.1.3",
     "notes":  "- Fixed: avatars/outfits that name leg bones with side prefixes (e.g. LeftUpperLeg) used to silently lose all leg weights and the worn legs would not follow; they now convert correctly, and any bone that still cannot be matched is listed in a console warning\n- Fixed: panties with small detached decorations (metal rings, studs, buttons, ribbons, layered panels) no longer get crushed or torn in pull states - each piece now rides the fabric beneath it\n- Improved: low-poly panties get smoother pull shapes\n- New: in keep mode the pull is now band-led - the waistband slides down first while the panty keeps its worn shape\n- Note: re-run Bake on converted panties after updating to apply the fixes"
 }

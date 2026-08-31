@@ -1,5 +1,5 @@
 {
     "version":  "1.0.6",
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/pantypull-updates/main/StockingPull_v1.0.6.unitypackage.enc",
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/StockingPull_v1.0.6.unitypackage.enc",
     "notes":  "- Fixed: the worn stocking could sit off the leg on garments whose renderer carries a non-uniform transform scale (the bake now reconstructs from the actual skinning)\n- Fixed: a stocking dropped on the floor could turn invisible to other players once you walked away (its culling bounds now follow the dropped stocking)\n- Improved: faster baking on high-polygon stockings and dense bodies"
 }
