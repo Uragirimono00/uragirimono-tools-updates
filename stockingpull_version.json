@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.6",
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/StockingPull_v1.0.6.unitypackage.enc",
-    "notes":  "- Fixed: the worn stocking could sit off the leg on garments whose renderer carries a non-uniform transform scale (the bake now reconstructs from the actual skinning)\n- Fixed: a stocking dropped on the floor could turn invisible to other players once you walked away (its culling bounds now follow the dropped stocking)\n- Improved: faster baking on high-polygon stockings and dense bodies"
+    "version":  "1.0.7",
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/StockingPull_v1.0.7.unitypackage.enc",
+    "notes":  "- Fixed: the first drop after taking a stocking off no longer snaps straight to the floor - it now falls from your hand down to your feet\n- Fixed: the dropped stocking could land in a different spot for other players than for you\n- Fixed: Menu Hold L/R now shows the stocking in your hand to other players too (including late joiners)\n- New: Blendshapes when taken off - drive a blendshape (e.g. the body's sock-shrink key) as the stocking comes off: per leg or both, at once or gradually over a range you choose; a shape covering both legs is split per leg automatically\n- Note: stockings re-bake automatically the next time you press Play"
 }
