@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/StockingPull_v1.0.7.unitypackage.enc",
-    "notes":  "- Fixed: the first drop after taking a stocking off no longer snaps straight to the floor - it now falls from your hand down to your feet\n- Fixed: the dropped stocking could land in a different spot for other players than for you\n- Fixed: Menu Hold L/R now shows the stocking in your hand to other players too (including late joiners)\n- New: Blendshapes when taken off - drive a blendshape (e.g. the body's sock-shrink key) as the stocking comes off: per leg or both, at once or gradually over a range you choose; a shape covering both legs is split per leg automatically\n- Note: stockings re-bake automatically the next time you press Play"
+    "version":  "1.1.0",
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/StockingPull_v1.1.0.unitypackage.enc",
+    "notes":  "- New: the inspector is now laid out as simple steps (body, how it is pulled, band position, bake); optional and advanced settings are folded away\n- New: Drop speed (Advanced) - how fast a let-go stocking falls to the floor\n- Changed: the setup name is assigned automatically and no longer needs to be typed (existing setups keep their name)\n- Changed: a stocking released in the air now flutters down from where you let go, and lands flat instead of spinning or standing on its edge\n- Fixed: skin poking through the back of the leg while the stocking is being pulled off\n- Faster: baking is quicker (results unchanged)\n- Note: stockings re-bake automatically the next time you press Play"
 }
