@@ -1,5 +1,5 @@
 {
-    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/PantyPull_v2.1.4.unitypackage.enc",
-    "version":  "2.1.4",
-    "notes":  "- Fixed: on avatars whose thigh bones are named Upper_leg.L / Upper_leg.R (e.g. Mayo, MANUKA), the pulled-down panty sat in the wrong place since 2.1.3 - an internal bone lookup matched the wrong object\n- Note: re-run Bake on converted panties after updating to apply the fix"
+    "url":  "https://raw.githubusercontent.com/Uragirimono00/uragirimono-tools-updates/main/PantyPull_v2.2.0.unitypackage.enc",
+    "version":  "2.2.0",
+    "notes":  "- New: the inspector is now laid out as simple steps (body, how it is pulled, Aside, grab hint, bake); optional and advanced settings are folded away\n- Changed: the setup name is assigned automatically and no longer needs to be typed (existing setups keep their name)\n- Faster: baking is several times quicker, especially on high-poly garments (results unchanged)"
 }
